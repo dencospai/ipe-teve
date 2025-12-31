@@ -1,0 +1,63 @@
+{
+  "id": "org.minhatv.stremio",
+  "version": "1.0.0",
+  "name": "Channels",
+  "description": "TV Brazilian",
+  "logo": "https://static.vecteezy.com/ti/vetor-gratis/t1/7688855-tv-logo-gratis-vetor.jpg",
+  "resources": [
+    "catalog",
+    "stream",
+    "meta"
+  ],
+  "types": [
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "minhatv_channels",
+      "name": "Channels",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "Band",
+            "Champioships",
+            "Reality",
+            "FTV",
+            "Globo Sul",
+            "Religious",
+            "Channels Free",
+            "Channels4K",
+            "Amazon Prime",
+            "Cine Sky",
+            "Discovery",
+            "Disney Sports",
+            "Documentaries",
+            "ESPN",
+            "Sports",
+            "Movies & Series",
+            "Globo 1",
+            "Globo 2",
+            "Globo 3",
+            "Globo 4",
+            "HBO",
+            "HBO MAX",
+            "Cartoons",
+            "News",
+            "Paramount + ",
+            "Pay-per-view",
+            "Premiere",
+            "Record",
+            "SBT",
+            "SporTV",
+            "Sport World",
+            "Telecine",
+            "USA NFL Gamepass",
+          ],
+          "isRequired": false
+        }
+      ]
+    }
+  ]
+}
