@@ -37,14 +37,8 @@ http://rggov.site:80/DenisPicos/Canelinha/188582.ts
 http://rggov.site:80/DenisPicos/Canelinha/188588.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/SBT.png" group-title="CHANNELS | SBT",SBT
 http://rggov.site:80/DenisPicos/Canelinha/188727.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD [ALT]" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",GLOBO SP
-http://rggov.site:80/DenisPicos/Canelinha/295611.ts
-#EXTINF:-1 tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",MODO VIAGEM
-http://rggov.site:80/DenisPicos/Canelinha/189845.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",TV DIARIO FORTALEZA
-http://rggov.site:80/DenisPicos/Canelinha/188407.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV FRONTEIRA PAULISTA HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",TV FRONTEIRA PAULISTA
-http://rggov.site:80/DenisPicos/Canelinha/361010.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP FHD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",GLOBO
+http://rggov.site:80/DenisPicos/Canelinha/188301.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/BAND.png" group-title="CHANNELS | BAND",BAND
 http://rggov.site:80/DenisPicos/Canelinha/188742.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="http://dlstvonline.com/images/NOTICIAS/BAND NEWS.png" group-title="CHANNELS | NEWS",BAND NEWS
@@ -75,9 +69,7 @@ http://rggov.site:80/DenisPicos/Canelinha/1151440.ts
 http://rggov.site:80/DenisPicos/Canelinha/282455.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="https://play-lh.googleusercontent.com/YdcBpxY_nbtpHjZutoxqXVAu91VrMCjNTUwwAIlJkbylQwg4KlmD8FdEjouO_6EkNA=w240-h480-rw" group-title="CHANNELS | FTA TV",TV CIDADE CANAL 9
 http://rggov.site:80/DenisPicos/Canelinha/415099.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA SD" tvg-logo="http://dlstvonline.com/images/ABERTOS/CULTURA.png" group-title="CHANNELS | FTA TV",TV CULTURA
-http://rggov.site:80/DenisPicos/Canelinha/188882.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GAZETA.png" group-title="CHANNELS | FTA TV",TV GAZETA
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SP HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/GAZETA.png" group-title="CHANNELS | FTA TV",TV GAZETA SP
 http://rggov.site:80/DenisPicos/Canelinha/188876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO SD" tvg-logo="http://dlstvonline.com/images/ABERTOS/senado.png" group-title="CHANNELS | FTA TV",TV SENADO
 http://rggov.site:80/DenisPicos/Canelinha/208023.ts
@@ -95,11 +87,11 @@ http://rggov.site:80/DenisPicos/Canelinha/189037.ts
 http://rggov.site:80/DenisPicos/Canelinha/189040.ts
 #EXTINF:-1 tvg-id="" tvg-name="WOOHOO FHD" tvg-logo="http://dlstvonline.com/images/INFANTIL/WOOHOO.png" group-title="CHANNELS | KIDS",WOOHOO
 http://rggov.site:80/DenisPicos/Canelinha/189044.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO HD" tvg-logo="http://rggov.site:80/images/RYApwnPUE8uk36xY84U7o6VFTvgZDWtGBRAzuShyXNRPY6lL7n6mlt5Pr7QLlysIb9XhVAc6s0nKiSvvRUDKew.png" group-title="CHANNELS | KIDS",ZOOMO
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMO HD" tvg-logo="https://www.canaldumdum.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" group-title="CHANNELS | KIDS",ZOOMO
 http://rggov.site:80/DenisPicos/Canelinha/189051.ts
 #EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM HD" tvg-logo="https://cdn6.aptoide.com/imgs/a/8/6/a86268681fa802182f662ea58ddc04c4_icon.png" group-title="CHANNELS | KIDS",ADULT SWIM
 http://rggov.site:80/DenisPicos/Canelinha/1199800.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD [ALT]" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/ANIMAL PLANET.png" group-title="CHANNELS | DOCUMENTARIES",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD [ALT]" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/ANIMAL PLANET.png" group-title="CHANNELS | DOCUMENTARIES",ANIMAL PLANET
 http://rggov.site:80/DenisPicos/Canelinha/295650.ts
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/H2.png" group-title="CHANNELS | DOCUMENTARIES",H2
 http://rggov.site:80/DenisPicos/Canelinha/188691.ts
@@ -115,8 +107,6 @@ http://rggov.site:80/DenisPicos/Canelinha/189069.ts
 http://rggov.site:80/DenisPicos/Canelinha/189075.ts
 #EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/GNT.png" group-title="CHANNELS | ENTERTAINMENT",GNT
 http://rggov.site:80/DenisPicos/Canelinha/189081.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/HG.png" group-title="CHANNELS | ENTERTAINMENT",HGTV
-http://rggov.site:80/DenisPicos/Canelinha/189087.ts
 #EXTINF:-1 tvg-id="" tvg-name="MULTISHOW HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/MULTISHOW.png" group-title="CHANNELS | ENTERTAINMENT",MULTISHOW
 http://rggov.site:80/DenisPicos/Canelinha/189107.ts
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/PRIME.png" group-title="CHANNELS | ENTERTAINMENT",PRIME BOX BRAZIL
@@ -127,7 +117,7 @@ http://rggov.site:80/DenisPicos/Canelinha/340970.ts
 http://rggov.site:80/DenisPicos/Canelinha/189129.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA HD" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="CHANNELS | RELIGIOUS",CANCAO NOVA
 http://rggov.site:80/DenisPicos/Canelinha/211901.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="http://udiwebsistem.com.br/logos/canais_religiosos/LGT_Rede_Gospel.png" group-title="CHANNELS | RELIGIOUS",REDE GOSPEL
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL HD" tvg-logo="https://play-lh.googleusercontent.com/71alCiyYs2yCgl9gEEMsNZypZ3jBkiaPVGeCRHsGJ4VBmJB1-DJF_RokWhhYgaoMqw" group-title="CHANNELS | RELIGIOUS",REDE GOSPEL
 http://rggov.site:80/DenisPicos/Canelinha/211917.ts
 #EXTINF:-1 tvg-id="" tvg-name="REDE SUPER SD" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/rede super.jpg" group-title="CHANNELS | RELIGIOUS",REDE SUPER
 http://rggov.site:80/DenisPicos/Canelinha/319582.ts
@@ -149,10 +139,10 @@ http://rggov.site:80/DenisPicos/Canelinha/1144957.ts
 http://rggov.site:80/DenisPicos/Canelinha/211781.ts
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="http://dlstvonline.com:80/images/Esportes/COMBATE.png" group-title="CHANNELS | SPORTS",COMBATE
 http://rggov.site:80/DenisPicos/Canelinha/211785.ts
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="http://rggov.site:80/images/RYApwnPUE8uk36xY84U7ozmmCP2wU7Lr2DhIzAaeYYhkwWoNXVHJDZA1qhuHhupSKLCH1k8nvIFixorJqyOrSQ.png" group-title="CHANNELS | SPORTS",FISH TV
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK02RKdl2lyCnfsePVGq40kKbs2AEhypoUvQ&s" group-title="CHANNELS | SPORTS",FISH TV
 http://rggov.site:80/DenisPicos/Canelinha/188685.ts
-#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/OFF.png" group-title="CHANNELS | SPORTS",OFF
-http://rggov.site:80/DenisPicos/Canelinha/189113.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="OFF HD" tvg-logo="http://dlstvonline.com/images/VARIEDADES/OFF.png" group-title="CHANNELS | SPORTS",OFF
+
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE ACTION.png" group-title="CHANNELS | TELECINES",TELECINE ACTION
 http://rggov.site:80/DenisPicos/Canelinha/188426.ts
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE CULT.png" group-title="CHANNELS | TELECINES",TELECINE CULT
@@ -185,19 +175,15 @@ http://rggov.site:80/DenisPicos/Canelinha/211894.ts
 http://rggov.site:80/DenisPicos/Canelinha/211804.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY CHANNEL.png" group-title="CHANNELS | DISCOVERY",DISCOVERY CHANNEL
 http://rggov.site:80/DenisPicos/Canelinha/188648.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="CHANNELS | DISCOVERY",DISCOVERY H&H HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="CHANNELS | DISCOVERY",DISCOVERY H&H
 http://rggov.site:80/DenisPicos/Canelinha/188655.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://dlstvonline.com/images/INFANTIL/DISCOVERY KIDS.png" group-title="CHANNELS | DISCOVERY",DISCOVERY KIDS
 http://rggov.site:80/DenisPicos/Canelinha/188984.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY SCIENCE.png" group-title="CHANNELS | DISCOVERY",DISCOVERY SCIENCE
 http://rggov.site:80/DenisPicos/Canelinha/188660.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY THEATER HD [ALT]" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY THEATER.png" group-title="CHANNELS | DISCOVERY",DISCOVERY THEATER
-
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/TLC.png" group-title="CHANNELS | DISCOVERY",DISCOVERY TLC
 http://rggov.site:80/DenisPicos/Canelinha/188721.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY TURBO.png" group-title="CHANNELS | DISCOVERY",DISCOVERY TURBO
 http://rggov.site:80/DenisPicos/Canelinha/188673.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
 http://rggov.site:80/DenisPicos/Canelinha/188679.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID DISCOVERY FHD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/ID.png" group-title="CHANNELS | DISCOVERY",ID DISCOVERY
-http://rggov.site:80/DenisPicos/Canelinha/188702.ts
