@@ -49,7 +49,7 @@ http://rggov.site:80/DenisPicos/Canelinha/189215.ts
 http://rggov.site:80/DenisPicos/Canelinha/189223.ts
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/JPNEWS.png" group-title="CHANNELS | NEWS",JOVEM PAN NEWS
 http://rggov.site:80/DenisPicos/Canelinha/229791.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/RECORD_NEWS.jpg" group-title="CHANNELS | NEWS",RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/RECORD_NEWS.png" group-title="CHANNELS | NEWS",RECORD NEWS
 http://rggov.site:80/DenisPicos/Canelinha/189230.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SBT_NEWS.png" group-title="CHANNELS | NEWS",SBT NEWS
 http://rggov.site:80/DenisPicos/Canelinha/2418244.ts
@@ -110,7 +110,7 @@ http://rggov.site:80/DenisPicos/Canelinha/189081.ts
 http://rggov.site:80/DenisPicos/Canelinha/189107.ts
 #EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/PRIME.png" group-title="CHANNELS | ENTERTAINMENT",PRIME BOX BRAZIL
 http://rggov.site:80/DenisPicos/Canelinha/189118.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TRAVEL_BOX.jpg" group-title="CHANNELS | ENTERTAINMENT",TRAVEL BOX BRAZIL
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TRAVEL_BOX.png" group-title="CHANNELS | ENTERTAINMENT",TRAVEL BOX BRAZIL
 http://rggov.site:80/DenisPicos/Canelinha/340970.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/VIVA.png" group-title="CHANNELS | ENTERTAINMENT",VIVA
 http://rggov.site:80/DenisPicos/Canelinha/189129.ts
@@ -171,7 +171,7 @@ http://rggov.site:80/DenisPicos/Canelinha/211888.ts
 http://rggov.site:80/DenisPicos/Canelinha/211894.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/ESPN.png" group-title="CHANNELS | ESPN",ESPN
 http://rggov.site:80/DenisPicos/Canelinha/211804.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY.png" group-title="CHANNELS | DISCOVERY",DISCOVERY CHANNEL
 http://rggov.site:80/DenisPicos/Canelinha/188648.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_HH.png" group-title="CHANNELS | DISCOVERY",DISCOVERY H&H
 http://rggov.site:80/DenisPicos/Canelinha/188655.ts
@@ -181,9 +181,10 @@ http://rggov.site:80/DenisPicos/Canelinha/188984.ts
 http://rggov.site:80/DenisPicos/Canelinha/188660.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TLC.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY TLC
 http://rggov.site:80/DenisPicos/Canelinha/188721.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_TURBO.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_TURBO.png" group-title="CHANNELS | DISCOVERY",DISCOVERY TURBO
 http://rggov.site:80/DenisPicos/Canelinha/188673.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
 http://rggov.site:80/DenisPicos/Canelinha/188679.ts
+
 
 
