@@ -112,7 +112,7 @@ http://rggov.site:80/DenisPicos/Canelinha/189107.ts
 http://rggov.site:80/DenisPicos/Canelinha/189118.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TRAVEL_BOX.png" group-title="CHANNELS | ENTERTAINMENT",TRAVEL BOX BRAZIL
 http://rggov.site:80/DenisPicos/Canelinha/340970.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/VIVA.png" group-title="CHANNELS | ENTERTAINMENT",VIVA
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDE_VIVA.png" group-title="CHANNELS | ENTERTAINMENT",VIVA
 http://rggov.site:80/DenisPicos/Canelinha/189129.ts
 #EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CANCAO_NOVA.png" group-title="CHANNELS | RELIGIOUS",CANCAO NOVA
 http://rggov.site:80/DenisPicos/Canelinha/211901.ts
@@ -185,6 +185,7 @@ http://rggov.site:80/DenisPicos/Canelinha/188721.ts
 http://rggov.site:80/DenisPicos/Canelinha/188673.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
 http://rggov.site:80/DenisPicos/Canelinha/188679.ts
+
 
 
 
