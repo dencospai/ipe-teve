@@ -1,189 +1,189 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="http://dlstvonline.com/images/ABERTOS/RECORD.png" group-title="CHANNELS | RECORD",RECORD
+#EXTINF:-1 tvg-id="" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/RECORD.png" group-title="CHANNELS | RECORD",RECORD
 http://rggov.site:80/DenisPicos/Canelinha/188790.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://dlstvonline.com/images/Filmes_Series/AE.png" group-title="CHANNELS | MOVIES & SERIES",A&E
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/AE.png" group-title="CHANNELS | MOVIES & SERIES",A&E
 http://rggov.site:80/DenisPicos/Canelinha/188462.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://dlstvonline.com/images/Filmes_Series/AMC.png" group-title="CHANNELS | MOVIES & SERIES",AMC
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/AMC.png" group-title="CHANNELS | MOVIES & SERIES",AMC
 http://rggov.site:80/DenisPicos/Canelinha/188468.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://dlstvonline.com/images/Filmes_Series/AXN.png" group-title="CHANNELS | MOVIES & SERIES",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/AXN.png" group-title="CHANNELS | MOVIES & SERIES",AXN
 http://rggov.site:80/DenisPicos/Canelinha/188474.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY " tvg-logo="http://dlstvonline.com/images/Filmes_Series/SONY.png" group-title="CHANNELS | MOVIES & SERIES",CANAL SONY
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SONY.png" group-title="CHANNELS | MOVIES & SERIES",CANAL SONY
 http://rggov.site:80/DenisPicos/Canelinha/188480.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://dlstvonline.com/images/Filmes_Series/CINEMAX.png" group-title="CHANNELS | MOVIES & SERIES",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CINEMAX.png" group-title="CHANNELS | MOVIES & SERIES",CINEMAX
 http://rggov.site:80/DenisPicos/Canelinha/188486.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="http://dlstvonline.com/images/Filmes_Series/LIFETIME.png" group-title="CHANNELS | MOVIES & SERIES",LIFETIME
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/LIFETIME.png" group-title="CHANNELS | MOVIES & SERIES",LIFETIME
 http://rggov.site:80/DenisPicos/Canelinha/188528.ts
-#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="http://dlstvonline.com/images/Filmes_Series/MEGAPIX.png" group-title="CHANNELS | MOVIES & SERIES",MEGAPIX
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/MEGAPIX.png" group-title="CHANNELS | MOVIES & SERIES",MEGAPIX
 http://rggov.site:80/DenisPicos/Canelinha/188534.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://dlstvonline.com/images/Filmes_Series/PARAMOUNT.png" group-title="CHANNELS | MOVIES & SERIES",PARAMOUNT
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/PARAMOUNT.png" group-title="CHANNELS | MOVIES & SERIES",PARAMOUNT
 http://rggov.site:80/DenisPicos/Canelinha/295623.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://dlstvonline.com/images/Filmes_Series/SPACE.png" group-title="CHANNELS | MOVIES & SERIES",SPACE
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SPACE.png" group-title="CHANNELS | MOVIES & SERIES",SPACE
 http://rggov.site:80/DenisPicos/Canelinha/188546.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://dlstvonline.com/images/Filmes_Series/STUDIO.png" group-title="CHANNELS | MOVIES & SERIES",STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/STUDIO.png" group-title="CHANNELS | MOVIES & SERIES",STUDIO UNIVERSAL
 http://rggov.site:80/DenisPicos/Canelinha/188552.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK" tvg-logo="http://dlstvonline.com/images/Filmes_Series/SYFY.png" group-title="CHANNELS | MOVIES & SERIES",USA NETWORK
-http://rggov.site:80/DenisPicos/Canelinha/188558.ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://dlstvonline.com/images/Filmes_Series/TCM.png" group-title="CHANNELS | MOVIES & SERIES",TCM
+#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SYFY.png" group-title="CHANNELS | MOVIES & SERIES",USA NETWORK
+http://rggov.site:80/DenisPicos/Canelinha/188556.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TCM.png" group-title="CHANNELS | MOVIES & SERIES",TCM
 http://rggov.site:80/DenisPicos/Canelinha/188596.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://dlstvonline.com/images/Filmes_Series/TNT.png" group-title="CHANNELS | MOVIES & SERIES",TNT
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TNT.png" group-title="CHANNELS | MOVIES & SERIES",TNT
 http://rggov.site:80/DenisPicos/Canelinha/188570.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="http://dlstvonline.com/images/Filmes_Series/TBS.jpg" group-title="CHANNELS | MOVIES & SERIES",TNT NOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TNT_NOVELAS.png" group-title="CHANNELS | MOVIES & SERIES",TNT NOVELAS
 http://rggov.site:80/DenisPicos/Canelinha/188564.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://dlstvonline.com/images/Filmes_Series/TNT SERIES.png" group-title="CHANNELS | MOVIES & SERIES",TNT SERIES
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TNT_SERIES.png" group-title="CHANNELS | MOVIES & SERIES",TNT SERIES
 http://rggov.site:80/DenisPicos/Canelinha/295627.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://dlstvonline.com/images/Filmes_Series/UNIVERSAL.png" group-title="CHANNELS | MOVIES & SERIES",UNIVERSAL TV
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/UNIVERSAL.png" group-title="CHANNELS | MOVIES & SERIES",UNIVERSAL TV
 http://rggov.site:80/DenisPicos/Canelinha/188582.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://dlstvonline.com/images/Filmes_Series/WARNER.png" group-title="CHANNELS | MOVIES & SERIES",WARNER CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/WARNER.png" group-title="CHANNELS | MOVIES & SERIES",WARNER CHANNEL
 http://rggov.site:80/DenisPicos/Canelinha/188588.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://dlstvonline.com/images/ABERTOS/SBT.png" group-title="CHANNELS | SBT",SBT
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SBT.png" group-title="CHANNELS | SBT",SBT
 http://rggov.site:80/DenisPicos/Canelinha/188727.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://dlstvonline.com/images/ABERTOS/GLOBO.png" group-title="CHANNELS | GLOBO",GLOBO
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GLOBO.png" group-title="CHANNELS | GLOBO",GLOBO
 http://rggov.site:80/DenisPicos/Canelinha/188301.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://dlstvonline.com/images/ABERTOS/BAND.png" group-title="CHANNELS | BAND",BAND
+#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BAND.png" group-title="CHANNELS | BAND",BAND
 http://rggov.site:80/DenisPicos/Canelinha/188742.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://dlstvonline.com/images/NOTICIAS/BAND NEWS.png" group-title="CHANNELS | NEWS",BAND NEWS
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BAND_NEWS.png" group-title="CHANNELS | NEWS",BAND NEWS
 http://rggov.site:80/DenisPicos/Canelinha/189210.ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://dlstvonline.com/images/NOTICIAS/CNN.png" group-title="CHANNELS | NEWS",CNN BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CNN.png" group-title="CHANNELS | NEWS",CNN BRASIL
 http://rggov.site:80/DenisPicos/Canelinha/189215.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="http://dlstvonline.com/images/NOTICIAS/GLOBO NEWS.png" group-title="CHANNELS | NEWS",GLOBO NEWS
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS " tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GLOBO_NEWS.png" group-title="CHANNELS | NEWS",GLOBO NEWS
 http://rggov.site:80/DenisPicos/Canelinha/189223.ts
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://dlstvonline.com/images/NOTICIAS/jpnews.png" group-title="CHANNELS | NEWS",JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/JPNEWS.png" group-title="CHANNELS | NEWS",JOVEM PAN NEWS
 http://rggov.site:80/DenisPicos/Canelinha/229791.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://dlstvonline.com/images/NOTICIAS/RECORD NEWS.png" group-title="CHANNELS | NEWS",RECORD NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/RECORD_NEWS.jpg" group-title="CHANNELS | NEWS",RECORD NEWS
 http://rggov.site:80/DenisPicos/Canelinha/189230.ts
-#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS" tvg-logo="https://i.postimg.cc/tRdDQMDs/images-q-tbn-ANd9Gc-Qan6WSx6vi-ELo6T7aw-Pofz-BEGn-INF-DOUc-UQ-s.png" group-title="CHANNELS | NEWS",SBT NEWS
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SBT_NEWS.png" group-title="CHANNELS | NEWS",SBT NEWS
 http://rggov.site:80/DenisPicos/Canelinha/2418244.ts
-#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" group-title="CHANNELS | FTA TV",AGROMAIS
+#EXTINF:-1 tvg-id="" tvg-name="AGROMAIS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/AGRO%2B.png" group-title="CHANNELS | FTA TV",AGROMAIS
 http://rggov.site:80/DenisPicos/Canelinha/297144.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://dlstvonline.com/images/ABERTOS/BRASIL.png" group-title="CHANNELS | FTA TV",CANAL BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BRASIL.png" group-title="CHANNELS | FTA TV",CANAL BRASIL
 http://rggov.site:80/DenisPicos/Canelinha/188858.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://acstatic.co/logos/canais/canaldoboi.png" group-title="CHANNELS | FTA TV",CANAL DO BOI
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CANALDOBOI.png" group-title="CHANNELS | FTA TV",CANAL DO BOI
 http://rggov.site:80/DenisPicos/Canelinha/297941.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://dlstvonline.com/images/ABERTOS/FUTURA.png" group-title="CHANNELS | FTA TV",FUTURA
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/FUTURA.png" group-title="CHANNELS | FTA TV",FUTURA
 http://rggov.site:80/DenisPicos/Canelinha/188865.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://dlstvonline.com/images/ABERTOS/redebrasil.png" group-title="CHANNELS | FTA TV",REDE BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDEBRASIL.png" group-title="CHANNELS | FTA TV",REDE BRASIL
 http://rggov.site:80/DenisPicos/Canelinha/200362.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://dlstvonline.com/images/ABERTOS/REDETV.png" group-title="CHANNELS | FTA TV",REDE TV
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDETV.png" group-title="CHANNELS | FTA TV",REDE TV
 http://rggov.site:80/DenisPicos/Canelinha/1151440.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://dlstvonline.com/images/ABERTOS/tvbrasil.png" group-title="CHANNELS | FTA TV",TV BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TVBRASIL.png" group-title="CHANNELS | FTA TV",TV BRASIL
 http://rggov.site:80/DenisPicos/Canelinha/282455.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="https://play-lh.googleusercontent.com/YdcBpxY_nbtpHjZutoxqXVAu91VrMCjNTUwwAIlJkbylQwg4KlmD8FdEjouO_6EkNA=w240-h480-rw" group-title="CHANNELS | FTA TV",TV CIDADE CANAL 9
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TVCIDADE.png" group-title="CHANNELS | FTA TV",TV CIDADE CANAL 9
 http://rggov.site:80/DenisPicos/Canelinha/415099.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="http://dlstvonline.com/images/ABERTOS/GAZETA.png" group-title="CHANNELS | FTA TV",TV GAZETA SP
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GAZETA.png" group-title="CHANNELS | FTA TV",TV GAZETA SP
 http://rggov.site:80/DenisPicos/Canelinha/188876.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://dlstvonline.com/images/ABERTOS/senado.png" group-title="CHANNELS | FTA TV",TV SENADO
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SENADO.png" group-title="CHANNELS | FTA TV",TV SENADO
 http://rggov.site:80/DenisPicos/Canelinha/208023.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://dlstvonline.com/images/INFANTIL/CARTOON.png" group-title="CHANNELS | KIDS",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CARTOON.png" group-title="CHANNELS | KIDS",CARTOON NETWORK
 http://rggov.site:80/DenisPicos/Canelinha/188978.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2022/05/cartoonito_logo_freelogovectors.net_.png" group-title="CHANNELS | KIDS",CARTOONITO
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CARTOONITO.png" group-title="CHANNELS | KIDS",CARTOONITO
 http://rggov.site:80/DenisPicos/Canelinha/188972.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://dlstvonline.com/images/INFANTIL/GLOOB.png" group-title="CHANNELS | KIDS",GLOOB
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GLOOB.png" group-title="CHANNELS | KIDS",GLOOB
 http://rggov.site:80/DenisPicos/Canelinha/189007.ts
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://dlstvonline.com/images/INFANTIL/TOONCAST.png" group-title="CHANNELS | KIDS",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TOONCAST.png" group-title="CHANNELS | KIDS",TOONCAST
 http://rggov.site:80/DenisPicos/Canelinha/189030.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOOBINHO" tvg-logo="http://dlstvonline.com/images/INFANTIL/GLOOBINHO.png" group-title="CHANNELS | KIDS",TV GLOOBINHO
+#EXTINF:-1 tvg-id="" tvg-name="TV GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GLOOBINHO.png" group-title="CHANNELS | KIDS",TV GLOOBINHO
 http://rggov.site:80/DenisPicos/Canelinha/189037.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM" tvg-logo="http://dlstvonline.com/images/INFANTIL/TVRA.png" group-title="CHANNELS | KIDS",TV RATIMBUM
+#EXTINF:-1 tvg-id="" tvg-name="TV RATIMBUM" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TVRA.png" group-title="CHANNELS | KIDS",TV RATIMBUM
 http://rggov.site:80/DenisPicos/Canelinha/189040.ts
-#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="http://dlstvonline.com/images/INFANTIL/WOOHOO.png" group-title="CHANNELS | KIDS",WOOHOO
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/WOOHOO.png" group-title="CHANNELS | KIDS",WOOHOO
 http://rggov.site:80/DenisPicos/Canelinha/189044.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMO" tvg-logo="https://www.canaldumdum.com.br/wp-content/uploads/2022/11/cropped-shadow-zoomoo-kids-logo.png" group-title="CHANNELS | KIDS",ZOOMO
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/ZOOMO_KIDS.png" group-title="CHANNELS | KIDS",ZOOMO
 http://rggov.site:80/DenisPicos/Canelinha/189051.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://cdn6.aptoide.com/imgs/a/8/6/a86268681fa802182f662ea58ddc04c4_icon.png" group-title="CHANNELS | KIDS",ADULT SWIM
+#EXTINF:-1 tvg-id="" tvg-name="ADULT SWIM" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/ADULT_SWIN.png" group-title="CHANNELS | KIDS",ADULT SWIM
 http://rggov.site:80/DenisPicos/Canelinha/1199800.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/ANIMAL PLANET.png" group-title="CHANNELS | DOCUMENTARIES",ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/ANIMAL_PLANET.png" group-title="CHANNELS | DOCUMENTARIES",ANIMAL PLANET
 http://rggov.site:80/DenisPicos/Canelinha/295650.ts
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/H2.png" group-title="CHANNELS | DOCUMENTARIES",H2
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/H2.png" group-title="CHANNELS | DOCUMENTARIES",H2
 http://rggov.site:80/DenisPicos/Canelinha/188691.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/HISTORY.png" group-title="CHANNELS | DOCUMENTARIES",HISTORY
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HISTORY.png" group-title="CHANNELS | DOCUMENTARIES",HISTORY
 http://rggov.site:80/DenisPicos/Canelinha/188697.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://dlstvonline.com/images/VARIEDADES/BIS.png" group-title="CHANNELS | ENTERTAINMENT",BIS
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BIS.png" group-title="CHANNELS | ENTERTAINMENT",BIS
 http://rggov.site:80/DenisPicos/Canelinha/189057.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="CURTA!" tvg-logo="http://dlstvonline.com/images/VARIEDADES/CURTA.png" group-title="CHANNELS | ENTERTAINMENT",CURTA!
+#EXTINF:-1 tvg-id="ext" tvg-name="CURTA!" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CURTA.png" group-title="CHANNELS | ENTERTAINMENT",CURTA!
 
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://dlstvonline.com/images/VARIEDADES/E.png" group-title="CHANNELS | ENTERTAINMENT",E!
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/E.png" group-title="CHANNELS | ENTERTAINMENT",E!
 http://rggov.site:80/DenisPicos/Canelinha/189069.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://dlstvonline.com/images/VARIEDADES/FOOD.png" group-title="CHANNELS | ENTERTAINMENT",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/FOOD.png
+" group-title="CHANNELS | ENTERTAINMENT",FOOD NETWORK
 http://rggov.site:80/DenisPicos/Canelinha/189075.ts
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://dlstvonline.com/images/VARIEDADES/GNT.png" group-title="CHANNELS | ENTERTAINMENT",GNT
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GNT.png" group-title="CHANNELS | ENTERTAINMENT",GNT
 http://rggov.site:80/DenisPicos/Canelinha/189081.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://dlstvonline.com/images/VARIEDADES/MULTISHOW.png" group-title="CHANNELS | ENTERTAINMENT",MULTISHOW
+#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/MULTISHOW.png" group-title="CHANNELS | ENTERTAINMENT",MULTISHOW
 http://rggov.site:80/DenisPicos/Canelinha/189107.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://dlstvonline.com/images/VARIEDADES/PRIME.png" group-title="CHANNELS | ENTERTAINMENT",PRIME BOX BRAZIL
+#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/PRIME.png" group-title="CHANNELS | ENTERTAINMENT",PRIME BOX BRAZIL
 http://rggov.site:80/DenisPicos/Canelinha/189118.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://yt3.googleusercontent.com/ox2cQECxyL2d3TwrQjvvdNlR602eXoAa0-XqmcRq2vca0VyJBEndn07VIvEIxhECHylPtP1F=s900-c-k-c0x00ffffff-no-rj" group-title="CHANNELS | ENTERTAINMENT",TRAVEL BOX BRAZIL
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TRAVEL_BOX.jpg" group-title="CHANNELS | ENTERTAINMENT",TRAVEL BOX BRAZIL
 http://rggov.site:80/DenisPicos/Canelinha/340970.ts
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://dlstvonline.com/images/VARIEDADES/VIVA.png" group-title="CHANNELS | ENTERTAINMENT",VIVA
+#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/VIVA.png" group-title="CHANNELS | ENTERTAINMENT",VIVA
 http://rggov.site:80/DenisPicos/Canelinha/189129.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/CANCAO_NOVA.png" group-title="CHANNELS | RELIGIOUS",CANCAO NOVA
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CANCAO_NOVA.png" group-title="CHANNELS | RELIGIOUS",CANCAO NOVA
 http://rggov.site:80/DenisPicos/Canelinha/211901.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://play-lh.googleusercontent.com/71alCiyYs2yCgl9gEEMsNZypZ3jBkiaPVGeCRHsGJ4VBmJB1-DJF_RokWhhYgaoMqw" group-title="CHANNELS | RELIGIOUS",REDE GOSPEL
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDE_GOSPEL.png" group-title="CHANNELS | RELIGIOUS",REDE GOSPEL
 http://rggov.site:80/DenisPicos/Canelinha/211917.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/rede super.jpg" group-title="CHANNELS | RELIGIOUS",REDE SUPER
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDE_SUPER.png" group-title="CHANNELS | RELIGIOUS",REDE SUPER
 http://rggov.site:80/DenisPicos/Canelinha/319582.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/REDE VIDA.png" group-title="CHANNELS | RELIGIOUS",REDE VIDA
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/REDE_VIDA.png" group-title="CHANNELS | RELIGIOUS",REDE VIDA
 http://rggov.site:80/DenisPicos/Canelinha/211908.ts
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="https://media.glassdoor.com/sqll/2491026/rit-tv-squarelogo-1554440519232.png" group-title="CHANNELS | RELIGIOUS",RIT TV
+#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/RIT.png" group-title="CHANNELS | RELIGIOUS",RIT TV
 http://rggov.site:80/DenisPicos/Canelinha/211918.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/APARECIDA.png" group-title="CHANNELS | RELIGIOUS",TV APARECIDA
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/APARECIDA.png" group-title="CHANNELS | RELIGIOUS",TV APARECIDA
 http://rggov.site:80/DenisPicos/Canelinha/211915.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/MUNDIAL.jpg" group-title="CHANNELS | RELIGIOUS",TV MUNDIAL
+#EXTINF:-1 tvg-id="" tvg-name="TV MUNDIAL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/MUNDIAL.jpg" group-title="CHANNELS | RELIGIOUS",TV MUNDIAL
 http://rggov.site:80/DenisPicos/Canelinha/211913.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="TV NOVO TEMPO" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/NOVO TEMPO.png" group-title="CHANNELS | RELIGIOUS",TV NOVO TEMPO
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NOVO TEMPO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TV_NOVO_TEMPO.png" group-title="CHANNELS | RELIGIOUS",TV NOVO TEMPO
 
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://dlstvonline.com/images/RELIGIOSOS/PAI%20ETERNO.png" group-title="CHANNELS | RELIGIOUS",TV PAI ETERNO
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/PAI_ETERNO.png" group-title="CHANNELS | RELIGIOUS",TV PAI ETERNO
 http://rggov.site:80/DenisPicos/Canelinha/212527.ts
-#EXTINF:-1 tvg-id="" tvg-name="IGREJA UNIVERSAL" tvg-logo="https://tse2.explicit.bing.net/th?id=OIP.a1sKtV-cxdRuf76zFpoiDQAAAA&pid=Api&P=0&h=180" group-title="CHANNELS | RELIGIOUS",IGREJA UNIVERSAL
+#EXTINF:-1 tvg-id="" tvg-name="IGREJA UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/UNIVERSAL.jpg" group-title="CHANNELS | RELIGIOUS",IGREJA UNIVERSAL
 http://rggov.site:80/DenisPicos/Canelinha/1144957.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://dlstvonline.com:80/images/Esportes/BAND_SPORTS.png" group-title="CHANNELS | SPORTS",BAND SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BAND_SPORTS.png" group-title="CHANNELS | SPORTS",BAND SPORTS
 http://rggov.site:80/DenisPicos/Canelinha/211781.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://dlstvonline.com:80/images/Esportes/COMBATE.png" group-title="CHANNELS | SPORTS",COMBATE
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/COMBATE.png" group-title="CHANNELS | SPORTS",COMBATE
 http://rggov.site:80/DenisPicos/Canelinha/211785.ts
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK02RKdl2lyCnfsePVGq40kKbs2AEhypoUvQ&s" group-title="CHANNELS | SPORTS",FISH TV
+#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/FISHTV.png" group-title="CHANNELS | SPORTS",FISH TV
 http://rggov.site:80/DenisPicos/Canelinha/188685.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="OFF" tvg-logo="http://dlstvonline.com/images/VARIEDADES/OFF.png" group-title="CHANNELS | SPORTS",OFF
+#EXTINF:-1 tvg-id="ext" tvg-name="OFF" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/OFF.png" group-title="CHANNELS | SPORTS",OFF
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE ACTION.png" group-title="CHANNELS | TELECINES",TELECINE ACTION
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_ACTION.png" group-title="CHANNELS | TELECINES",TELECINE ACTION
 http://rggov.site:80/DenisPicos/Canelinha/188426.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE CULT.png" group-title="CHANNELS | TELECINES",TELECINE CULT
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_CULT.png" group-title="CHANNELS | TELECINES",TELECINE CULT
 http://rggov.site:80/DenisPicos/Canelinha/188432.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE FUN.png" group-title="CHANNELS | TELECINES",TELECINE FUN
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_FUN.png" group-title="CHANNELS | TELECINES",TELECINE FUN
 http://rggov.site:80/DenisPicos/Canelinha/188438.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE PIPOCA.png" group-title="CHANNELS | TELECINES",TELECINE PIPOCA
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_PIPOCA.png" group-title="CHANNELS | TELECINES",TELECINE PIPOCA
 http://rggov.site:80/DenisPicos/Canelinha/188443.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE PREMIUM.png" group-title="CHANNELS | TELECINES",TELECINE PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_PREMIUM.png" group-title="CHANNELS | TELECINES",TELECINE PREMIUM
 http://rggov.site:80/DenisPicos/Canelinha/295637.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="http://dlstvonline.com:80/images/Telecines/TELECINE TOUCH.png" group-title="CHANNELS | TELECINES",TELECINE TOUCH
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TELECINE_TOUCH.png" group-title="CHANNELS | TELECINES",TELECINE TOUCH
 http://rggov.site:80/DenisPicos/Canelinha/188456.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://dlstvonline.com/images/HBO/HBO.png" group-title="CHANNELS | HBO",HBO
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO.png" group-title="CHANNELS | HBO",HBO
 http://rggov.site:80/DenisPicos/Canelinha/211852.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="http://dlstvonline.com/images/HBO/HBO2.png" group-title="CHANNELS | HBO",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO2.png" group-title="CHANNELS | HBO",HBO 2
 http://rggov.site:80/DenisPicos/Canelinha/211858.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="http://dlstvonline.com/images/HBO/HBO FAMILY.png" group-title="CHANNELS | HBO",HBO FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_FAMILY.png" group-title="CHANNELS | HBO",HBO FAMILY
 http://rggov.site:80/DenisPicos/Canelinha/211864.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="http://dlstvonline.com/images/HBO/HBO MUNDI.png" group-title="CHANNELS | HBO",HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_MUNDI.png" group-title="CHANNELS | HBO",HBO MUNDI
 http://rggov.site:80/DenisPicos/Canelinha/211870.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://dlstvonline.com/images/HBO/HBO PLUS.png" group-title="CHANNELS | HBO",HBO PLUS
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_PLUS.png" group-title="CHANNELS | HBO",HBO PLUS
 http://rggov.site:80/DenisPicos/Canelinha/211876.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO POP" tvg-logo="http://dlstvonline.com/images/HBO/HBO POP.png" group-title="CHANNELS | HBO",HBO POP
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="http://dlstvonline.com/images/HBO/HBO SIGNATURE.png" group-title="CHANNELS | HBO",HBO SIGNATURE
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO POP" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_POP.png" group-title="CHANNELS | HBO",HBO POP
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_SIGNATURE.png" group-title="CHANNELS | HBO",HBO SIGNATURE
 http://rggov.site:80/DenisPicos/Canelinha/211888.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="http://dlstvonline.com/images/HBO/HBO Xtreme.png" group-title="CHANNELS | HBO",HBO XTREME
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/HBO_EXTREME.png" group-title="CHANNELS | HBO",HBO XTREME
 http://rggov.site:80/DenisPicos/Canelinha/211894.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://dlstvonline.com:80/images/Esportes/ESPN.png" group-title="CHANNELS | ESPN",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/ESPN.png" group-title="CHANNELS | ESPN",ESPN
 http://rggov.site:80/DenisPicos/Canelinha/211804.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY CHANNEL.png" group-title="CHANNELS | DISCOVERY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY CHANNEL
 http://rggov.site:80/DenisPicos/Canelinha/188648.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY HH.png" group-title="CHANNELS | DISCOVERY",DISCOVERY H&H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_HH.png" group-title="CHANNELS | DISCOVERY",DISCOVERY H&H
 http://rggov.site:80/DenisPicos/Canelinha/188655.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://dlstvonline.com/images/INFANTIL/DISCOVERY KIDS.png" group-title="CHANNELS | DISCOVERY",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_KIDS.png" group-title="CHANNELS | DISCOVERY",DISCOVERY KIDS
 http://rggov.site:80/DenisPicos/Canelinha/188984.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY SCIENCE.png" group-title="CHANNELS | DISCOVERY",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_SCIENCE.png" group-title="CHANNELS | DISCOVERY",DISCOVERY SCIENCE
 http://rggov.site:80/DenisPicos/Canelinha/188660.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/TLC.png" group-title="CHANNELS | DISCOVERY",DISCOVERY TLC
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TLC.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY TLC
 http://rggov.site:80/DenisPicos/Canelinha/188721.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY TURBO.png" group-title="CHANNELS | DISCOVERY",DISCOVERY TURBO
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_TURBO.jpg" group-title="CHANNELS | DISCOVERY",DISCOVERY TURBO
 http://rggov.site:80/DenisPicos/Canelinha/188673.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://dlstvonline.com:80/images/DOCUMENTARIOS/DISCOVERY WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
 http://rggov.site:80/DenisPicos/Canelinha/188679.ts
