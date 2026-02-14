@@ -100,11 +100,9 @@ http://rggov.site:80/DenisPicos/Canelinha/188697.ts
 #EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/BIS.png" group-title="CHANNELS | ENTERTAINMENT",BIS
 http://rggov.site:80/DenisPicos/Canelinha/189057.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="CURTA!" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/CURTA.png" group-title="CHANNELS | ENTERTAINMENT",CURTA!
-
 #EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/E.png" group-title="CHANNELS | ENTERTAINMENT",E!
 http://rggov.site:80/DenisPicos/Canelinha/189069.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/FOOD.png
-" group-title="CHANNELS | ENTERTAINMENT",FOOD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/FOOD.png" group-title="CHANNELS | ENTERTAINMENT",FOOD NETWORK
 http://rggov.site:80/DenisPicos/Canelinha/189075.ts
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GNT.png" group-title="CHANNELS | ENTERTAINMENT",GNT
 http://rggov.site:80/DenisPicos/Canelinha/189081.ts
@@ -187,3 +185,4 @@ http://rggov.site:80/DenisPicos/Canelinha/188721.ts
 http://rggov.site:80/DenisPicos/Canelinha/188673.ts
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/DISCOVERY_WORLD.png" group-title="CHANNELS | DISCOVERY",DISCOVERY WORLD
 http://rggov.site:80/DenisPicos/Canelinha/188679.ts
+
