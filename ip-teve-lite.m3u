@@ -15,8 +15,6 @@ http://rggov.site:80/DenisPicos/Canelinha/188486.ts
 http://rggov.site:80/DenisPicos/Canelinha/188528.ts
 #EXTINF:-1 tvg-id="" tvg-name="MEGAPIX" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/MEGAPIX.png" group-title="CHANNELS | MOVIES & SERIES",MEGAPIX
 http://rggov.site:80/DenisPicos/Canelinha/188534.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/PARAMOUNT.png" group-title="CHANNELS | MOVIES & SERIES",PARAMOUNT
-http://rggov.site:80/DenisPicos/Canelinha/295623.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SPACE.png" group-title="CHANNELS | MOVIES & SERIES",SPACE
 http://rggov.site:80/DenisPicos/Canelinha/188546.ts
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/STUDIO.png" group-title="CHANNELS | MOVIES & SERIES",STUDIO UNIVERSAL
@@ -67,8 +65,6 @@ http://rggov.site:80/DenisPicos/Canelinha/200362.ts
 http://rggov.site:80/DenisPicos/Canelinha/1151440.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TVBRASIL.png" group-title="CHANNELS | FTA TV",TV BRASIL
 http://rggov.site:80/DenisPicos/Canelinha/282455.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/TVCIDADE.png" group-title="CHANNELS | FTA TV",TV CIDADE CANAL 9
-http://rggov.site:80/DenisPicos/Canelinha/415099.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/GAZETA.png" group-title="CHANNELS | FTA TV",TV GAZETA SP
 http://rggov.site:80/DenisPicos/Canelinha/188876.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="https://raw.githubusercontent.com/dencospai/ipe-teve/refs/heads/main/Logo%20TV/SENADO.png" group-title="CHANNELS | FTA TV",TV SENADO
