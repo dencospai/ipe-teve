@@ -381,7 +381,7 @@ http://rggov.site:80/DenisPicos/Canelinha/188819.ts
 http://rggov.site:80/DenisPicos/Canelinha/1124310.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD ATALAIA HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/RECORD.png" group-title="CHANNELS | RECORD",RECORD ATALAIA HD
 http://rggov.site:80/DenisPicos/Canelinha/1140040.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CIDADE CE HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/RECORD.png" group-title="CHANNELS | RECORD",RECORD TV CIDADE CE HD
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV  CE HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/RECORD.png" group-title="CHANNELS | RECORD",RECORD TV CIDADE CE HD
 http://rggov.site:80/DenisPicos/Canelinha/1148792.ts
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="http://dlstvonline.com/images/ABERTOS/BAND.png" group-title="CHANNELS | BAND",BAND SP FHD
 http://rggov.site:80/DenisPicos/Canelinha/188741.ts
@@ -487,8 +487,6 @@ http://rggov.site:80/DenisPicos/Canelinha/1151440.ts
 http://rggov.site:80/DenisPicos/Canelinha/1151441.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/tvbrasil.png" group-title="CHANNELS | FTA TV",TV BRASIL HD
 http://rggov.site:80/DenisPicos/Canelinha/282455.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE CANAL 9" tvg-logo="https://play-lh.googleusercontent.com/YdcBpxY_nbtpHjZutoxqXVAu91VrMCjNTUwwAIlJkbylQwg4KlmD8FdEjouO_6EkNA=w240-h480-rw" group-title="CHANNELS | FTA TV",TV CIDADE CANAL 9
-http://rggov.site:80/DenisPicos/Canelinha/415099.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="http://dlstvonline.com/images/ABERTOS/CULTURA.png" group-title="CHANNELS | FTA TV",TV CULTURA HD
 http://rggov.site:80/DenisPicos/Canelinha/188880.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV CULTURA SD" tvg-logo="http://dlstvonline.com/images/ABERTOS/CULTURA.png" group-title="CHANNELS | FTA TV",TV CULTURA SD
